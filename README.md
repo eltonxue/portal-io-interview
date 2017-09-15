@@ -1,6 +1,6 @@
 # portal-io-interview
 
-Task 3:
+Task 3 - Python 3:
 
 For my choice of data structure, I decided to utilized a 2D list and Unix timestamps to display scheduling data with the first index representing the title given for the event, the second index representing the start time in Unix timestamps, and the third index representing the end time in Unix timestamps. The reason why I decided to use Unix timestamps was because it simplifies the whole process of finding conflicts by eliminating conversion calculations needed to compare start and end times.
 
